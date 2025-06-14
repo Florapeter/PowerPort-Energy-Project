@@ -1,5 +1,5 @@
-# PowerPort-Energy-Project
-动力港能源管理综合平台
+![image](https://github.com/user-attachments/assets/6f3c0821-d6a6-44c1-b89a-85877f69289e)# PowerPort-Energy-Project
+动力汇谷能源管理综合平台
 ·项目介绍：动力港能源管理平台是基于公司充电能源业务，根据数据可视化的基本组成和数据特点，设计多个模块进行可视化展示功能以及相关数据的管理功能，便于公司对能源设备进行集中管理和监测。
 ·项目技术栈：Vue3 + Vue-Router + Pinia + Vite + Element-Plus + Echarts + 高德地图api + TinyMCE
 ·实现axios的二次封装，拦截器的封装，api接口的统一封装
